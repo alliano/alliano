@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
-  
+
  ### 👉 Software & Tools
 <p>
   &emsp;
@@ -95,10 +95,16 @@ Here are some ideas to get you started:
 
   <hr>
 
-### 🔥 Streak Stats
+### 👉 Streak Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alliano&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alliano&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
+<br><br><br><br><br><br><br>
 <hr>
+
+### 👉 my best friend
+<p><b><a href="https://github.com/aryawpratama"><img src="https://img.shields.io/badge/-Arya%20wahyu%20pratama-blue"></b></p>
+<p><b><a href="https://github.com/daberpro"><img src="https://img.shields.io/badge/-Daber-yellow"></b></p>
+<p><b><a href="https://github.com/irdaislakhuafa"><img src="https://img.shields.io/badge/-Irda%20islaku%20afa-brown"></b></p>
+<p><b><a href="https://github.com/albantanie"><img src="https://img.shields.io/badge/-Faiz-green"></b></p>
+
 
