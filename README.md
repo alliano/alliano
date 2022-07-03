@@ -25,11 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/lives-indonesia-red" />
   <img src="https://img.shields.io/badge/langguage-indonesian%20%26%20English-blue" />
 </p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alliano </h1>
-
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
