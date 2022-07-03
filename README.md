@@ -73,6 +73,7 @@ Here are some ideas to get you started:
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
+  
  ### 👉 Software & Tools
 <p>
   &emsp;
