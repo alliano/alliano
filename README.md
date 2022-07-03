@@ -25,15 +25,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/lives-indonesia-red" />
   <img src="https://img.shields.io/badge/langguage-indonesian%20%26%20English-blue" />
 </p>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a Gutenberg Block Plugin **Html, CSS, Java ,SpringBoot , Mysql,Js & Php language**<br>
-✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
-
-## 🛠️ My Skills
 
 ### 👉 Programming languages
 
