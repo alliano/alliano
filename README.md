@@ -106,5 +106,6 @@ Here are some ideas to get you started:
 <p><b><a href="https://github.com/daberpro"><img src="https://img.shields.io/badge/-Daber-yellow"></b></p>
 <p><b><a href="https://github.com/irdaislakhuafa"><img src="https://img.shields.io/badge/-Irda%20islaku%20afa-brown"></b></p>
 <p><b><a href="https://github.com/albantanie"><img src="https://img.shields.io/badge/-Faiz-green"></b></p>
+<p><b><a href="https://github.com/query-gani"><img src="https://img.shields.io/badge/-Gani-red"></b></p>
 
 
