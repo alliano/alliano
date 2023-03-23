@@ -75,7 +75,7 @@ Here are some ideas to get you started:
     <a href="https://www.postgresql.org/"><img alt="PSQL" src="https://img.shields.io/badge/database-PostgreSql-blue"></a>
   &emsp;
 
- ### 👉 Software & Tools
+ ### Software & Tools
 <p>
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
