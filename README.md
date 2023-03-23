@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/langguage-indonesian%20%26%20English-blue" />
 </p>
 
-### 👉 Programming languages
+### Programming languages
 
 <p align="left"> 
   &emsp;
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### 👉 Frontend Development
+### Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -68,10 +68,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/database-Mysql-red"></a>
     <a href="https://www.postgresql.org/"><img alt="PSQL" src="https://img.shields.io/badge/database-PostgreSql-blue"></a>
   &emsp;
 
@@ -96,13 +96,13 @@ Here are some ideas to get you started:
 
   <hr>
 
-### 👉 Streak Stats
+### Streak Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alliano&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alliano&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br>
 <hr>
 
-### 👉 my best friend
+### my best friend
 <p>
   <b><a href="https://github.com/aryawpratama"><img src="https://img.shields.io/badge/-Arya%20wahyu%20pratama-blue"></b>
   <b><a href="https://github.com/daberpro"><img src="https://img.shields.io/badge/-Daber-yellow"></b>
