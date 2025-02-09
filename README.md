@@ -46,6 +46,9 @@ Here are some ideas to get you started:
   <a href="https://dev.mysql.com/doc/">
     <img alt="mysql" src="https://img.shields.io/badge/-mysql-red">
   </a>
+  <a href="https://soliditylang.org/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/solidity-blue">
+  </a>
 </p>
 
 ### Frontend Development
