@@ -1,117 +1,142 @@
+<div align="center">
 
+```
+ █████╗ ██╗     ██╗     ██╗ █████╗ ███╗   ██╗ ██████╗
+██╔══██╗██║     ██║     ██║██╔══██╗████╗  ██║██╔═══██╗
+███████║██║     ██║     ██║███████║██╔██╗ ██║██║   ██║
+██╔══██║██║     ██║     ██║██╔══██║██║╚██╗██║██║   ██║
+██║  ██║███████╗███████╗██║██║  ██║██║ ╚████║╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
+```
 
-<!--
-**alliano/alliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+%F0%9F%A6%80;Linux+Enthusiast+%F0%9F%90%A7;Backend+%7C+Rust+%7C+Java+%7C+Spring+Boot;Building+at+Adamlabs+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=alliano&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-<p align="center">
-  <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
-</p>
-<br>
- <p align="center">
-<img src="https://img.shields.io/badge/age-19-orange" />
-  <img src="https://img.shields.io/badge/foccuss-software%20engginer-brightgreen" />
-  <img src="https://img.shields.io/badge/lives-indonesia-red" />
-  <img src="https://img.shields.io/badge/langguage-indonesian%20%26%20English-blue" />
-</p>
+---
 
-### Programming languages
+## `$ whoami`
 
-<p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-  <a href = "https://docs.oracle.com/en/java/">
-    <img alt="java" src="https://img.shields.io/badge/-java-brightgreen">
-  </a>
-  <a href = "https://www.typescriptlang.org/">
-    <img alt="typescript" src="https://img.shields.io/badge/-typescript-blue">
-  </a>
-  <a href="https://dev.mysql.com/doc/">
-    <img alt="mysql" src="https://img.shields.io/badge/-mysql-red">
-  </a>
-  <a href="https://soliditylang.org/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/solidity-blue">
-  </a>
-</p>
+```rust
+struct Developer {
+    name:       &'static str,
+    location:   &'static str,
+    role:       &'static str,
+    company:    &'static str,
+    os:         &'static str,
+    passion:    Vec<&'static str>,
+}
 
-### Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://angular.io/docs" target="_blank"> 
-    <img alt="angular" src="https://img.shields.io/badge/-anggular-red"/>
-  </a>
-</p>
+impl Developer {
+    fn new() -> Self {
+        Developer {
+            name:       "Alliano",
+            location:   "Indonesia 🇮🇩",
+            role:       "Senior Software Engineer",
+            os:         "Linux 🐧",
+            passion:    vec![
+                "Clean Architecture",
+                "High Performance Systems",
+                "Open Source",
+                "Backend Engineering",
+            ],
+        }
+    }
+}
 
-### Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/database-Mysql-red"></a>
-    <a href="https://www.postgresql.org/"><img alt="PSQL" src="https://img.shields.io/badge/database-PostgreSql-blue"></a>
-  &emsp;
+fn main() {
+    let me = Developer::new();
+    println!("Hello, World! I'm {}", me.name);
+}
+```
 
- ### Software & Tools
-<p>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-</p>
+---
 
-<br/>
+## `$ cat tech-stack.toml`
 
-  <hr>
+<div align="center">
 
-### Streak Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alliano&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alliano&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br>
-<hr>
+### ⚙️ Backend
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=orange)
 
-### my best friend
-<p>
-  <b><a href="https://github.com/aryawpratama"><img src="https://img.shields.io/badge/-Arya%20wahyu%20pratama-blue"></b>
-  <b><a href="https://github.com/daberpro"><img src="https://img.shields.io/badge/-Daber-yellow"></b>
-  <b><a href="https://github.com/irdaislakhuafa"><img src="https://img.shields.io/badge/-Irda%20islaku%20afa-brown"></b>
-  <b><a href="https://github.com/albantanie"><img src="https://img.shields.io/badge/-Faiz-green"></b>
-  <b><a href="https://github.com/query-gani"><img src="https://img.shields.io/badge/-Gani-red"></b>
-</p>
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 🗄️ Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+### 🛠️ Tools & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alliano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alliano&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `$ ls -la /current-focus`
+
+```bash
+drwxr-xr-x  planout.ai/        # 🤖 AI-powered planning application
+drwxr-xr-x  kolosal-api/       # ⚡ High-performance REST API with Rust + Axum
+drwxr-xr-x  open-source/       # 🌍 Contributing back to the community
+drwxr-xr-x  system-design/     # 📐 Learning distributed systems
+```
+
+---
+
+## `$ ping alliano`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:software.engginer.aliano@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alliano)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kim_anata_alliano)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+while alive; do
+    eat()
+    sleep()
+    code()    # ← this is the important one
+done
+```
+
+⚡ *"First, solve the problem. Then, write the code."*
+
+</div>
