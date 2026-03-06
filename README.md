@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+%F0%9F%A6%80;Linux+Enthusiast+%F0%9F%90%A7;Backend+%7C+Rust+%7C+Java+%7C+Spring+Boot;Building+at+Adamlabs+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%F0%9F%A6%80;Linux+Enthusiast+%F0%9F%90%A7;Backend+%7C+Rust+%7C+Java+%7C+Spring+Boot;Building+at+Adamlabs+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=alliano&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
